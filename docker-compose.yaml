@@ -1,0 +1,14 @@
+services:
+  crawler:
+    build:
+      context: .
+      dockerfile: Dockerfile  # Ensure this matches your filename
+    container_name: netra_crawler
+    shm_size: '2gb'
+    volumes:
+      - .:/app:Z
+      - ./storage:/app/storage:Z
+      - /app/.venv
+      - /app/__pycache__
+    environment:
+      - PYTHONUNBUFFERED=1
