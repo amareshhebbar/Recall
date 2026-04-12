@@ -1,4 +1,9 @@
 # Recall
+<p align="center">
+<img src="https://img.shields.io/badge/Framework-React_Native_%2B_Expo-0081ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Intelligence-100%25_Offline-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Python_Agentic_Pipeline-yellow?style=for-the-badge" />
+</p>
 
 ```json
 { 
