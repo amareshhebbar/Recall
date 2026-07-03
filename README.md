@@ -173,3 +173,5 @@ Dynamic Model Switching: Automatically swapping between smaller local models for
 #### *Congratulations, you’ve built a $50-a-month subscription to local LLM tokens just to recreate the 'Save as PDF' button*# Recall
 
 <!-- docs pass: 2026-07-03T04:33:39Z -->
+
+< docs pass retry: 2026-07-03T04:44:42Z -->
